@@ -82,7 +82,7 @@ The Answer for Code Parts is provided in the following parts:
 
 ### HW7
 #### Theoritical:
-For a detailed Theoritical HomeWork description, please refer to the [HW7 Theoritical Description PDF](./Theoritical%20Algo/Assignment%207-%20Algorithm%20Design.pdf). <br />
+For a detailed Theoritical HomeWork description, please refer to the [HW7 Theoritical Description PDF](./Theoritical%20Algo/Assignment7%20-%20Algorithm%20Design.pdf). <br />
 The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW7.pdf). <br />
 
 #### Code:
