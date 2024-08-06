@@ -20,7 +20,6 @@ The Answer for Code Parts is provided in the following parts:
 - [Question 3](./HW1/Q3.py)
 <br />
 
-
 ### HW2
 #### Theoritical:
 For a detailed Theoritical HomeWork description, please refer to the [HW2 Theoritical Description PDF](./Theoritical%20Algo/Assignment2-%20Algorithm%20Design.pdf). <br />
@@ -32,6 +31,7 @@ The Answer for Code Parts is provided in the following parts:
 - [Question 1](./HW2/Q1.py)
 - [Question 2](./HW2/Q2.py)
 <br />
+
 ### HW3
 #### Theoritical:
 For a detailed Theoritical HomeWork description, please refer to the [HW3 Theoritical Description PDF](./Theoritical%20Algo/Assignment3-%20Algorithm%20Design.pdf). <br />
@@ -43,6 +43,7 @@ The Answer for Code Parts is provided in the following parts:
 - [Question 1](./AlgoDesignHW3/Q1.py)
 - [Question 2](./AlgoDesignHW3/Q2.py)
 <br />
+
 ### HW4
 #### Theoritical:
 For a detailed Theoritical HomeWork description, please refer to the [HW4 Theoritical Description PDF](./Theoritical%20Algo/Assignment4-%20Algorithm%20Design.pdf). <br />
@@ -53,6 +54,7 @@ For a detailed Code HomeWork description, please refer to the [HW4 Code Descript
 The Answer for Code Parts is provided in the following parts:
 - [Question 1](./AlgoHW4/Q1.py)
 <br />
+
 ### HW5
 #### Theoritical:
 For a detailed Theoritical HomeWork description, please refer to the [HW5 Theoritical Description PDF](./Theoritical%20Algo/Assignment5-%20Algorithm%20Design.pdf). <br />
@@ -64,6 +66,7 @@ The Answer for Code Parts is provided in the following parts:
 - [Question 1 & 2](./Algo_HW5/Q2.py)
 - [Question 3](./Algo_HW5/q3.py)
 <br />
+
 ### HW6
 #### Theoritical:
 For a detailed Theoritical HomeWork description, please refer to the [HW6 Theoritical Description PDF](./Theoritical%20Algo/Assignment6-%20Algorithm%20Design.pdf). <br />
@@ -76,6 +79,7 @@ The Answer for Code Parts is provided in the following parts:
 - [Question 2](./Algo_HW6/Q2.py)
 - [Question 3](./Algo_HW6/Q3.py)
 <br />
+
 ### HW7
 #### Theoritical:
 For a detailed Theoritical HomeWork description, please refer to the [HW7 Theoritical Description PDF](./Theoritical%20Algo/Assignment%207-%20Algorithm%20Design.pdf). <br />
@@ -88,6 +92,7 @@ The Answer for Code Parts is provided in the following parts:
 - [Question 2](./Algo_HW7/q2.py)
 - [Question 3](./Algo_HW7/q3.py)
 <br />
+
 ## IDE
 This project is developed using PyCharm.
 
