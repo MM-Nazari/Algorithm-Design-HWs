@@ -39,9 +39,8 @@ The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./T
 #### Code:
 For a detailed Code HomeWork description, please refer to the [HW3 Code Description PDF](./HW3-Code.pdf). <br />
 The Answer for Code Parts is provided in the following parts:
-- [Question 1](./HW1/Q1.py)
-- [Question 2](./HW1/Q2.py)
-- [Question 3](./HW1/Q3.py)
+- [Question 1](./AlgoDesignHW3/Q1.py)
+- [Question 2](./AlgoDesignHW3/Q2.py)
 
 ### HW4
 #### Theoritical:
