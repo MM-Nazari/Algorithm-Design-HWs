@@ -1,21 +1,25 @@
-def generate_latex_fraction(n):
-    if n == 1:
-        return "1"
-    else:
-        a, b = calculate_ab(n)
-        prev_fraction = generate_latex_fraction(n - 1)
-        return f"{prev_fraction}+\\frac{{{a}}}{{{b}}}"
+def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
 
-def calculate_ab(n):
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
 
-    a = 2 ** (n-1)
-    b = 2 ** (n)
+    return quicksort(left) + middle + quicksort(right)
 
-    return a, b
 
 def main():
     n = int(input())
-    print(generate_latex_fraction(n))
+    arr = list(map(int, input().split()))
+
+    # اعمال الگوریتم مرتب‌سازی سریع با شرط خاص
+    sorted_array = quicksort(arr)
+
+    # چاپ نتیجه
+    print(" ".join(map(str, sorted_array)))
+
 
 if __name__ == "__main__":
     main()
