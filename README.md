@@ -8,8 +8,15 @@
 ## Project Description
 
 ### HW1
-For a detailed HomeWork description, please refer to the [HW1 Description PDF](./HW1/تمرین%20سری%20اول.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW1/9931061_HW1.pdf).
+For a detailed Theoritical HomeWork description, please refer to the [HW1 Theoritical Description PDF](./Theoritical%20Algo/Assignment1-Algorithm%20Design.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW1.pdf). <br />
+
+For a detailed Code HomeWork description, please refer to the [HW1 Code Description PDF](./HW1-Code.pdf). <br />
+The Answer for Code Parts is provided in the following parts:
+- [Question 1](./HW1/Q1.py)
+- [Question 2](./HW1/Q2.py)
+- [Question 3](./HW1/Q3.py)
+
 
 ### HW2
 For a detailed Theoritical HomeWork description, please refer to the [HW2 Theoritical Description PDF](./HW2/تمرین%20سری%20دوم.pdf). <br />
