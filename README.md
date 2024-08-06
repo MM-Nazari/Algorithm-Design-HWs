@@ -8,7 +8,7 @@
 ## Project Description
 
 ### HW1
-For a detailed Theoritical HomeWork description, please refer to the [HW1 Theoritical Description PDF](./Theoritical%20Algo/Assignment1-Algorithm%20Design.pdf). <br />
+For a detailed Theoritical HomeWork description, please refer to the [HW1 Theoritical Description PDF](./Theoritical%20Algo/Assignment1-%20Algorithm%20Design.pdf). <br />
 The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW1.pdf). <br />
 
 For a detailed Code HomeWork description, please refer to the [HW1 Code Description PDF](./HW1-Code.pdf). <br />
