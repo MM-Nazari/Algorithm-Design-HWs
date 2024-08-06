@@ -44,51 +44,48 @@ The Answer for Code Parts is provided in the following parts:
 
 ### HW4
 #### Theoritical:
-For a detailed Theoritical HomeWork description, please refer to the [HW1 Theoritical Description PDF](./Theoritical%20Algo/Assignment1-%20Algorithm%20Design.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW1.pdf). <br />
+For a detailed Theoritical HomeWork description, please refer to the [HW4 Theoritical Description PDF](./Theoritical%20Algo/Assignment4-%20Algorithm%20Design.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW4.pdf). <br />
 
 #### Code:
-For a detailed Code HomeWork description, please refer to the [HW1 Code Description PDF](./HW1-Code.pdf). <br />
+For a detailed Code HomeWork description, please refer to the [HW4 Code Description PDF](./HW4-Code.pdf). <br />
 The Answer for Code Parts is provided in the following parts:
-- [Question 1](./HW1/Q1.py)
-- [Question 2](./HW1/Q2.py)
-- [Question 3](./HW1/Q3.py)
+- [Question 1](./AlgoHW4/Q1.py)
 
 ### HW5
 #### Theoritical:
-For a detailed Theoritical HomeWork description, please refer to the [HW1 Theoritical Description PDF](./Theoritical%20Algo/Assignment1-%20Algorithm%20Design.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW1.pdf). <br />
+For a detailed Theoritical HomeWork description, please refer to the [HW5 Theoritical Description PDF](./Theoritical%20Algo/Assignment5-%20Algorithm%20Design.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW5.pdf). <br />
 
 #### Code:
-For a detailed Code HomeWork description, please refer to the [HW1 Code Description PDF](./HW1-Code.pdf). <br />
+For a detailed Code HomeWork description, please refer to the [HW5 Code Description PDF](./HW5-Code.pdf). <br />
 The Answer for Code Parts is provided in the following parts:
-- [Question 1](./HW1/Q1.py)
-- [Question 2](./HW1/Q2.py)
-- [Question 3](./HW1/Q3.py)
+- [Question 1 & 2](./Algo_HW5/Q2.py)
+- [Question 3](./Algo_HW5/q3.py)
 
 ### HW6
 #### Theoritical:
-For a detailed Theoritical HomeWork description, please refer to the [HW1 Theoritical Description PDF](./Theoritical%20Algo/Assignment1-%20Algorithm%20Design.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW1.pdf). <br />
+For a detailed Theoritical HomeWork description, please refer to the [HW6 Theoritical Description PDF](./Theoritical%20Algo/Assignment6-%20Algorithm%20Design.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW6.pdf). <br />
 
 #### Code:
-For a detailed Code HomeWork description, please refer to the [HW1 Code Description PDF](./HW1-Code.pdf). <br />
+For a detailed Code HomeWork description, please refer to the [HW6 Code Description PDF](./HW6-Code.pdf). <br />
 The Answer for Code Parts is provided in the following parts:
-- [Question 1](./HW1/Q1.py)
-- [Question 2](./HW1/Q2.py)
-- [Question 3](./HW1/Q3.py)
+- [Question 1](./Algo_HW6/Q1.py)
+- [Question 2](./Algo_HW6/Q2.py)
+- [Question 3](./Algo_HW6/Q3.py)
 
 ### HW7
 #### Theoritical:
-For a detailed Theoritical HomeWork description, please refer to the [HW1 Theoritical Description PDF](./Theoritical%20Algo/Assignment1-%20Algorithm%20Design.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW1.pdf). <br />
+For a detailed Theoritical HomeWork description, please refer to the [HW7 Theoritical Description PDF](./Theoritical%20Algo/Assignment%207-%20Algorithm%20Design.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./Theoritical%20Algo/9931061_HW7.pdf). <br />
 
 #### Code:
-For a detailed Code HomeWork description, please refer to the [HW1 Code Description PDF](./HW1-Code.pdf). <br />
+For a detailed Code HomeWork description, please refer to the [HW7 Code Description PDF](./HW7-Code.pdf). <br />
 The Answer for Code Parts is provided in the following parts:
-- [Question 1](./HW1/Q1.py)
-- [Question 2](./HW1/Q2.py)
-- [Question 3](./HW1/Q3.py)
+- [Question 1](./Algo_HW7/q1.py)
+- [Question 2](./Algo_HW7/q2.py)
+- [Question 3](./Algo_HW7/q3.py)
 
 ## IDE
 This project is developed using PyCharm.
